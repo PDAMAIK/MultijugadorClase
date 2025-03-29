@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 51939c8cf2b7c114eb9a2957c8149d7c
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Backpack1_color_skin3
+    second: {fileID: 2800000, guid: 302b5c109ab257d4f8969bf4f9933fbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Backpack1_metalness
+    second: {fileID: 2800000, guid: 92ad1a411f8a3c343b6855ae4290256a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Backpack1_rough
+    second: {fileID: 2800000, guid: 99097572946350d42b158b4d63d453e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Boots3_Skin2_color
+    second: {fileID: 2800000, guid: eab798ce65d8a8a4681bcfd501c07284, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Boots3_metalness
+    second: {fileID: 2800000, guid: 1077a7f47b9eb0e48afd93eb01c40825, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Boots3_nmap
+    second: {fileID: 2800000, guid: f3e3ee8369c110f478282340af017b7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Boots3_rough
+    second: {fileID: 2800000, guid: 1e159fff13bf8ef499d5b3c34581c64f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Cap1_metalness
+    second: {fileID: 2800000, guid: 3e740fd02dcb26b4ab332cee42fc11ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Cap1_nmap
+    second: {fileID: 2800000, guid: 857022a1d278f2b4ebcaaf9d2442d88a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Cap1_rough
+    second: {fileID: 2800000, guid: ea3bec26f0cb11e44b23a6d88568a38b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Cap1_skin3_color
+    second: {fileID: 2800000, guid: 3ea28635f6d6fce4b97d51a4f1c54459, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Eyes1_albedo
+    second: {fileID: 2800000, guid: 8284eb52f44957d44b7dd5e061b0312f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Eyes1_normal
+    second: {fileID: 2800000, guid: 2f5a0ce6b3b3f3444b6347a165d72882, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Gloves1_color_skin2
+    second: {fileID: 2800000, guid: f1362754cf9feae4f92d3b2dc373dfe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Gloves1_nmap
+    second: {fileID: 2800000, guid: 338f62e14f3a0f3408a8104e95bd00de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Gloves1_rough
+    second: {fileID: 2800000, guid: 0a2541f8a9f4e8d468c75d3d058c80b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Hands1_color_skin1
+    second: {fileID: 2800000, guid: 3cbd01d773570b649aac13d9037a2e87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Hands1_nmap
+    second: {fileID: 2800000, guid: cd22883d2027f3244bbe2cceaa654a34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Hands1_rough
+    second: {fileID: 2800000, guid: ae567e73e48d2954cb081e5d6dcb23b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Head1_color
+    second: {fileID: 2800000, guid: e14d4b8c8bb22f446871785c28b0ef15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Head1_rough
+    second: {fileID: 2800000, guid: 01f5a18f9c396bc4f934bb748af4cf37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pants2_color_skin2
+    second: {fileID: 2800000, guid: 16841d5715a972c46a7cbb488b5d0e2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pants2_metalness
+    second: {fileID: 2800000, guid: 1574752ca21e8f547b4bdcbb2ced91b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pants2_nmap
+    second: {fileID: 2800000, guid: 8570842b0d354ba4eae36e1ee1c63aa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pants2_rough
+    second: {fileID: 2800000, guid: 9d36d4853005a6a46ad33c7b37e3ce7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pouches1_Skin1_color
+    second: {fileID: 2800000, guid: 12879be071eb5a04b9fd2bee8aed6ca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pouches1_metalness
+    second: {fileID: 2800000, guid: 9a7ba1fca655f0042ba27d10790d01f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pouches1_nmap
+    second: {fileID: 2800000, guid: a03a0638260d62c44824692caaf4d892, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Pouches1_rough
+    second: {fileID: 2800000, guid: 1146c64bda2289a45a9808dd63dc7703, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Shirt3_Skin1_color
+    second: {fileID: 2800000, guid: 5b74ce81b14a02a4cb80f84411b2b524, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Shirt3_metalness
+    second: {fileID: 2800000, guid: e1f6b32f739ded6418302d92d01336af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Shirt3_nmap
+    second: {fileID: 2800000, guid: afc8a101b3fe8de4494316dea18049ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Shirt3_rough
+    second: {fileID: 2800000, guid: e5b961e88fdc4ac4bb401075bae54016, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Vest1_Skin1_color
+    second: {fileID: 2800000, guid: d75ef6862b62abd43a3aff072393f540, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Vest1_metalness
+    second: {fileID: 2800000, guid: 5926c01048a68a947a1dfdc50cb2658f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Vest1_nmap
+    second: {fileID: 2800000, guid: f16234fb652bbe7448ef451c66961d8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Military_Vest1_rough
+    second: {fileID: 2800000, guid: d3bc5f146ef7b20439aa1e7816432f25, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
